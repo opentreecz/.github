@@ -1,5 +1,5 @@
 # Opentree.cz
 
-![img/opentreeczlogo.jpeg](img/opentreeczlogo.jpeg)
+![Opentree.cz Logo](profile/img/opentreeczlogo.jpeg)
 
 This interest group deals with Linux Kubernetes CI/CD IaC projects.
