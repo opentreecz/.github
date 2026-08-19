@@ -1,0 +1,16 @@
+extends: default
+
+rules:
+  line-length:
+    max: 200
+    level: warning
+
+  # Allow 'on:' key in GitHub Actions workflows without requiring boolean
+  truthy:
+    check-keys: false
+
+  comments:
+    min-spaces-from-content: 1
+
+  # Do not require document-start marker (---)
+  document-start: disable

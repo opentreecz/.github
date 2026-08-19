@@ -1,0 +1,9 @@
+# GitHub URLs that require authentication or are rate-limited
+https://github.com/opentreecz/.*/issues/new.*
+https://github.com/orgs/opentreecz/.*
+
+# Contributor Covenant links (may have intermittent availability)
+https://www.contributor-covenant.org/.*
+
+# GitHub user placeholder URLs
+https://github.com/<your-username>/.*

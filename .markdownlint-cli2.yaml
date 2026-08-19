@@ -1,0 +1,25 @@
+config:
+  # Disable line length limit (documentation often has long lines)
+  MD013: false
+
+  # Allow inline HTML (we use <img>, <p>, <a>, etc. for logo and layout)
+  MD033:
+    allowed_elements:
+      - img
+      - p
+      - br
+      - a
+      - div
+      - h1
+      - strong
+
+  # First line does not need to be a top-level heading (files may start with logo)
+  MD041: false
+
+  # Allow duplicate headings in different sections
+  MD024:
+    siblings_only: true
+
+  # Allow trailing punctuation in headings
+  MD026:
+    punctuation: ".,;:!"
