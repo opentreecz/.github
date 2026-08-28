@@ -40,6 +40,8 @@
 
 | Repository | Description | Language |
 |------------|-------------|----------|
+| [opencode](https://github.com/opentreecz/opencode) | The open source coding agent. | - |
+| [vscodium](https://github.com/opentreecz/vscodium) | binary releases of VS Code without MS branding/telemetry/licensing | - |
 | [openrepo](https://github.com/opentreecz/openrepo) | Open Source repository management for deb, rpm, and generic packages | Python |
 | [terminal-ghostty](https://github.com/opentreecz/terminal-ghostty) | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. | Zig |
 | [terminal-kitty](https://github.com/opentreecz/terminal-kitty) | If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based. | Python |
