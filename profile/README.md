@@ -40,6 +40,7 @@
 
 | Repository | Description | Language |
 |------------|-------------|----------|
+| [ct-cli-gui](https://github.com/opentreecz/ct-cli-gui) | yt-dlp wrapper for downloading from www.ceskatelevize.cz | Python |
 | [openrepo](https://github.com/opentreecz/openrepo) | Open Source repository management for deb, rpm, and generic packages | Python |
 | [jLink](https://github.com/opentreecz/jLink) | jLink is the ultimate solution for managing Jabra headsets and dongles on Linux. Think of it as Jabra Direct, but specifically built to bring its powerful features to the Linux ecosystem | Shell |
 | [vscodium](https://github.com/opentreecz/vscodium) | binary releases of VS Code without MS branding/telemetry/licensing | Shell |
