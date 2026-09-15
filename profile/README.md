@@ -26,12 +26,12 @@
 
 | Repository | Description | Language |
 |------------|-------------|----------|
+| [helm](https://github.com/opentreecz/helm) | Kubernetes Helm Chart repository | Go Template |
 | [k3s](https://github.com/opentreecz/k3s) | Installation procedure for K3s on bare metal servers. | JavaScript |
 | [openrepo-sync](https://github.com/opentreecz/openrepo-sync) | Sync packages in openrepo. | Rust |
 | [opentreecz.github.io](https://github.com/opentreecz/opentreecz.github.io) | opentree.cz project website and documentation | Ruby |
 | [openwrt](https://github.com/opentreecz/openwrt) | openwrt repository for initial configuration | Shell |
 | [nginx-reverse-proxy-mail](https://github.com/opentreecz/nginx-reverse-proxy-mail) | Reverse proxy for mail servers. | Dockerfile |
-| [helm](https://github.com/opentreecz/helm) | Kubernetes Helm Chart repository | Shell |
 | [relay-control](https://github.com/opentreecz/relay-control) | The relay control with Raspberry PI GPIO. | HTML |
 | [kerio-connect-reindex](https://github.com/opentreecz/kerio-connect-reindex) | Kerio Connect mail server tool for reindexing all index.fld and search.fld on Linux | Roff |
 | [gatekeeper](https://github.com/opentreecz/gatekeeper) | The GateKeeper is an application for distributing a backend application to clients. | Python |
