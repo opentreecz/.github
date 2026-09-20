@@ -26,6 +26,7 @@
 
 | Repository | Description | Language |
 |------------|-------------|----------|
+| [calibre-mcp](https://github.com/opentreecz/calibre-mcp) | Calibre MCP server for Claude | - |
 | [helm](https://github.com/opentreecz/helm) | Kubernetes Helm Chart repository | Go Template |
 | [k3s](https://github.com/opentreecz/k3s) | Installation procedure for K3s on bare metal servers. | JavaScript |
 | [openrepo-sync](https://github.com/opentreecz/openrepo-sync) | Sync packages in openrepo. | Rust |
