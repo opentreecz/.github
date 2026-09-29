@@ -26,10 +26,10 @@
 
 | Repository | Description | Language |
 |------------|-------------|----------|
+| [k3s](https://github.com/opentreecz/k3s) | Installation procedure for K3s on bare metal servers. | HTML |
+| [openrepo-sync](https://github.com/opentreecz/openrepo-sync) | Sync packages in openrepo. | Rust |
 | [calibre-mcp](https://github.com/opentreecz/calibre-mcp) | Calibre MCP server for Claude | Python |
 | [helm](https://github.com/opentreecz/helm) | Kubernetes Helm Chart repository | Go Template |
-| [k3s](https://github.com/opentreecz/k3s) | Installation procedure for K3s on bare metal servers. | JavaScript |
-| [openrepo-sync](https://github.com/opentreecz/openrepo-sync) | Sync packages in openrepo. | Rust |
 | [opentreecz.github.io](https://github.com/opentreecz/opentreecz.github.io) | opentree.cz project website and documentation | Ruby |
 | [openwrt](https://github.com/opentreecz/openwrt) | openwrt repository for initial configuration | Shell |
 | [nginx-reverse-proxy-mail](https://github.com/opentreecz/nginx-reverse-proxy-mail) | Reverse proxy for mail servers. | Dockerfile |
@@ -41,8 +41,8 @@
 
 | Repository | Description | Language |
 |------------|-------------|----------|
-| [ct-cli-gui](https://github.com/opentreecz/ct-cli-gui) | yt-dlp wrapper for downloading from www.ceskatelevize.cz | Python |
 | [openrepo](https://github.com/opentreecz/openrepo) | Open Source repository management for deb, rpm, and generic packages | Python |
+| [ct-cli-gui](https://github.com/opentreecz/ct-cli-gui) | yt-dlp wrapper for downloading from www.ceskatelevize.cz | Python |
 | [jLink](https://github.com/opentreecz/jLink) | jLink is the ultimate solution for managing Jabra headsets and dongles on Linux. Think of it as Jabra Direct, but specifically built to bring its powerful features to the Linux ecosystem | Shell |
 | [vscodium](https://github.com/opentreecz/vscodium) | binary releases of VS Code without MS branding/telemetry/licensing | Shell |
 | [opencode](https://github.com/opentreecz/opencode) | The open source coding agent. | - |
