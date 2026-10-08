@@ -41,10 +41,10 @@
 
 | Repository | Description | Language |
 |------------|-------------|----------|
-| [chiaki-ng](https://github.com/opentreecz/chiaki-ng) | Next-Generation of Chiaki (the open-source remote play client for PlayStation) | - |
 | [vscodium](https://github.com/opentreecz/vscodium) | binary releases of VS Code without MS branding/telemetry/licensing | Shell |
 | [opencode](https://github.com/opentreecz/opencode) | The open source coding agent. | TypeScript |
 | [openrepo](https://github.com/opentreecz/openrepo) | Open Source repository management for deb, rpm, and generic packages | Python |
+| [chiaki-ng](https://github.com/opentreecz/chiaki-ng) | Next-Generation of Chiaki (the open-source remote play client for PlayStation) | - |
 | [ct-cli-gui](https://github.com/opentreecz/ct-cli-gui) | yt-dlp wrapper for downloading from www.ceskatelevize.cz | Python |
 | [jLink](https://github.com/opentreecz/jLink) | jLink is the ultimate solution for managing Jabra headsets and dongles on Linux. Think of it as Jabra Direct, but specifically built to bring its powerful features to the Linux ecosystem | Shell |
 | [terminal-ghostty](https://github.com/opentreecz/terminal-ghostty) | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. | Zig |
