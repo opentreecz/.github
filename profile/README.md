@@ -26,6 +26,7 @@
 
 | Repository | Description | Language |
 |------------|-------------|----------|
+| [flexibee-mcp](https://github.com/opentreecz/flexibee-mcp) | MCP for ABRA Flexi (formerly FlexiBee), targeting self-hosted Flexi servers and Claude Desktop, Claude Code, and OpenCode, with portable Agent Skills. | - |
 | [openrepo-sync](https://github.com/opentreecz/openrepo-sync) | Sync packages in openrepo. | Rust |
 | [k3s](https://github.com/opentreecz/k3s) | Installation procedure for K3s on bare metal servers. | HTML |
 | [calibre-mcp](https://github.com/opentreecz/calibre-mcp) | Calibre MCP server for Claude | Python |
