@@ -26,9 +26,10 @@
 
 | Repository | Description | Language |
 |------------|-------------|----------|
-| [flexibee-mcp](https://github.com/opentreecz/flexibee-mcp) | MCP for ABRA Flexi (formerly FlexiBee), targeting self-hosted Flexi servers and Claude Desktop, Claude Code, and OpenCode, with portable Agent Skills. | - |
-| [openrepo-sync](https://github.com/opentreecz/openrepo-sync) | Sync packages in openrepo. | Rust |
 | [k3s](https://github.com/opentreecz/k3s) | Installation procedure for K3s on bare metal servers. | HTML |
+| [trackmania-ghost-ai](https://github.com/opentreecz/trackmania-ghost-ai) | An autonomous AI agent engineered to conquer Trackmania circuits. Leveraging reinforcement learning, real-time telemetry, and computer vision, this project trains a neural network to master optimal racing lines, precise airbrakes, and high-speed drift control to compete with top ghost replays and consistently hunt down Author Medals. | Python |
+| [flexibee-mcp](https://github.com/opentreecz/flexibee-mcp) | MCP for ABRA Flexi (formerly FlexiBee), targeting self-hosted Flexi servers and Claude Desktop, Claude Code, and OpenCode, with portable Agent Skills. | Go |
+| [openrepo-sync](https://github.com/opentreecz/openrepo-sync) | Sync packages in openrepo. | Rust |
 | [calibre-mcp](https://github.com/opentreecz/calibre-mcp) | Calibre MCP server for Claude | Python |
 | [helm](https://github.com/opentreecz/helm) | Kubernetes Helm Chart repository | Go Template |
 | [opentreecz.github.io](https://github.com/opentreecz/opentreecz.github.io) | opentree.cz project website and documentation | Ruby |
@@ -42,9 +43,10 @@
 
 | Repository | Description | Language |
 |------------|-------------|----------|
-| [vscodium](https://github.com/opentreecz/vscodium) | binary releases of VS Code without MS branding/telemetry/licensing | Shell |
-| [opencode](https://github.com/opentreecz/opencode) | The open source coding agent. | TypeScript |
 | [openrepo](https://github.com/opentreecz/openrepo) | Open Source repository management for deb, rpm, and generic packages | Python |
+| [opencode](https://github.com/opentreecz/opencode) | The open source coding agent. | TypeScript |
+| [pi](https://github.com/opentreecz/pi) | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI | - |
+| [vscodium](https://github.com/opentreecz/vscodium) | binary releases of VS Code without MS branding/telemetry/licensing | Shell |
 | [chiaki-ng](https://github.com/opentreecz/chiaki-ng) | Next-Generation of Chiaki (the open-source remote play client for PlayStation) | - |
 | [ct-cli-gui](https://github.com/opentreecz/ct-cli-gui) | yt-dlp wrapper for downloading from www.ceskatelevize.cz | Python |
 | [jLink](https://github.com/opentreecz/jLink) | jLink is the ultimate solution for managing Jabra headsets and dongles on Linux. Think of it as Jabra Direct, but specifically built to bring its powerful features to the Linux ecosystem | Shell |
