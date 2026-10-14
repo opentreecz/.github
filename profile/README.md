@@ -26,8 +26,8 @@
 
 | Repository | Description | Language |
 |------------|-------------|----------|
-| [k3s](https://github.com/opentreecz/k3s) | Installation procedure for K3s on bare metal servers. | HTML |
 | [trackmania-ghost-ai](https://github.com/opentreecz/trackmania-ghost-ai) | An autonomous AI agent engineered to conquer Trackmania circuits. Leveraging reinforcement learning, real-time telemetry, and computer vision, this project trains a neural network to master optimal racing lines, precise airbrakes, and high-speed drift control to compete with top ghost replays and consistently hunt down Author Medals. | Python |
+| [k3s](https://github.com/opentreecz/k3s) | Installation procedure for K3s on bare metal servers. | HTML |
 | [flexibee-mcp](https://github.com/opentreecz/flexibee-mcp) | MCP for ABRA Flexi (formerly FlexiBee), targeting self-hosted Flexi servers and Claude Desktop, Claude Code, and OpenCode, with portable Agent Skills. | Go |
 | [openrepo-sync](https://github.com/opentreecz/openrepo-sync) | Sync packages in openrepo. | Rust |
 | [calibre-mcp](https://github.com/opentreecz/calibre-mcp) | Calibre MCP server for Claude | Python |
