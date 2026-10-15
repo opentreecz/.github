@@ -43,10 +43,10 @@
 
 | Repository | Description | Language |
 |------------|-------------|----------|
+| [vscodium](https://github.com/opentreecz/vscodium) | binary releases of VS Code without MS branding/telemetry/licensing | Shell |
 | [openrepo](https://github.com/opentreecz/openrepo) | Open Source repository management for deb, rpm, and generic packages | Python |
 | [opencode](https://github.com/opentreecz/opencode) | The open source coding agent. | TypeScript |
 | [pi](https://github.com/opentreecz/pi) | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI | - |
-| [vscodium](https://github.com/opentreecz/vscodium) | binary releases of VS Code without MS branding/telemetry/licensing | Shell |
 | [chiaki-ng](https://github.com/opentreecz/chiaki-ng) | Next-Generation of Chiaki (the open-source remote play client for PlayStation) | - |
 | [ct-cli-gui](https://github.com/opentreecz/ct-cli-gui) | yt-dlp wrapper for downloading from www.ceskatelevize.cz | Python |
 | [jLink](https://github.com/opentreecz/jLink) | jLink is the ultimate solution for managing Jabra headsets and dongles on Linux. Think of it as Jabra Direct, but specifically built to bring its powerful features to the Linux ecosystem | Shell |
